@@ -1,0 +1,5 @@
+# Created at 2024-06-16T20:20:25.996
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Universidad\Ciclo 6\Arquitectura de Aplicaciones Web\Archivos Angular y Typescript\Semana13\Semana 13 Security Profe\backend\demoSV64\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
